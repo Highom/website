@@ -1,6 +1,5 @@
 import React from 'react';
 import Cat from './Cat.gif';
-import './App.css';
 
 function App() {
   return (
