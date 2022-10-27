@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div class="jumbotron text-center">
-        <h1>Welcome to Highom's Space</h1>
+        <h1>Welcome to Swissfappers</h1>
         <p>This Site is still in development, check back later</p>
       </div>
       <div class="row justify-content-center">
